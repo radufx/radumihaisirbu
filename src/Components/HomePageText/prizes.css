@@ -1,0 +1,19 @@
+.prizesContainer{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-content: center;
+    width: 100vh;
+}
+
+.prizesTitle{
+    font-size: 3rem;
+    align-items: center;
+    border-bottom: 2px solid black;
+    width: 100%;
+}
+
+.prizesElement{
+    margin-top: -2vh;
+    font-size: 1rem;
+}

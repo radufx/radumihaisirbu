@@ -1,0 +1,15 @@
+.profileImage {
+    border-radius: 50%;
+    width: 45vh;
+    height: 45vh;
+}
+
+.profileImage_component{
+    display: flex;
+    text-align: center;
+    justify-content: left;
+    margin-left: 30vh;
+    margin-top: 10vh;
+    width: 45vh;
+    height: 45vh;
+}

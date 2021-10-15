@@ -1,0 +1,12 @@
+.personalDescriptionContainer{
+    font-size: 2rem;
+    max-width: 90vh;
+}
+
+.name{
+    font-size: 4rem;
+    color: black;
+    border-bottom: 5px solid red;
+    width: 70vh;
+    margin-bottom: 2vh;
+}
