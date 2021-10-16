@@ -10,10 +10,50 @@
     font-size: 3rem;
     align-items: center;
     border-bottom: 2px solid black;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
     width: 100%;
 }
 
 .skillsElement{
     margin-top: -2vh;
     font-size: 1rem;
+}
+
+.programmingLanguages{
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    align-items: center;
+    justify-content: center;
+    grid-gap: 10vh;
+}
+
+.programmingLanguagesTitle{
+    text-align: left;
+    font-size: 1.7rem;
+}
+
+.skillTitle{
+    font-size: 1.7rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.pythonLogo{
+    width: 20vh;
+}
+
+.cppLogo{
+    width: 10vh;
+}
+
+.javaLogo{
+    width: 15vh;
+}
+
+.javascriptLogo{
+    width: 10vh;
+}
+
+.skillTitle:hover{
 }

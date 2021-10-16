@@ -1,5 +1,5 @@
 .footer{
-    background: rgb(250, 0, 0);
+    background: rgb(32, 32, 32);
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -8,7 +8,7 @@
     width: 100%;
     height: 16vh;
     color: white;
-    font-size: 2rem;
+    font-size: 1.4rem;
     margin-top: 0px;
 }
 
@@ -16,4 +16,23 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.linkedinIcon{
+    border-radius: 50%;
+    background: white;
+    width: 9vh;
+    height: 9vh;
+}
+
+.linkedinIcon:hover{
+    background:rgb(65, 65, 65);
+}
+
+.footer_container_element{
+    margin: 5vh;
+}
+
+.website_rights{
+    font-weight: bold;
 }
