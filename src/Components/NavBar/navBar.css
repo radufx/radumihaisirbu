@@ -7,6 +7,7 @@
     top: 0vh;
     height: 12vh;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: -3.5vh;
 }
 
 .nav_container{
@@ -21,6 +22,7 @@
     align-items: center;
     justify-content: center;
     grid-gap: 10vh;
+    margin-top: 3vh;
 }
 
 .nav_item{

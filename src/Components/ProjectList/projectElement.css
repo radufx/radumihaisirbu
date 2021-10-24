@@ -1,0 +1,38 @@
+.projectImageComponent{
+    width: 60vh;
+    height: 60vh;
+    background-size:  cover;
+    position: relative;
+    transition: all .5s;
+}
+
+.projectComponent{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-gap: 10vh;
+    height: 80vh;
+}
+
+.buttonLinkRepo{
+    margin: auto;
+    margin-top: 28vh;
+}
+
+.projectImageComponent:hover{
+    border: 6px solid rgba(0, 0, 0, 0.8);
+    border-radius: 8%;
+    transform: scale(1.2);
+    transition: all .5s;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-left: -10vh;
+    margin-right: 15vh;
+}
+
+.projectDescriptionComponent{
+    margin-top: 10vh;
+}
+
