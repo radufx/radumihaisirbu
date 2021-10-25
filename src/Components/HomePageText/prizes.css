@@ -13,9 +13,14 @@
     border-bottom-left-radius: 5%;
     border-bottom-right-radius: 5%;
     width: 100%;
+    margin-bottom: 5vh;
 }
 
 .prizesElement{
     margin-top: -2vh;
     font-size: 1rem;
+}
+
+.prizesContainer .ant-timeline-item{
+    font-size: 1.5rem;
 }

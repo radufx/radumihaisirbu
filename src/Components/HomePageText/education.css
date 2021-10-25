@@ -13,9 +13,14 @@
     border-bottom-left-radius: 5%;
     border-bottom-right-radius: 5%;
     width: 100%;
+    margin-bottom: 5vh;
 }
 
 .educationElement{
     margin-top: -2vh;
     font-size: 1rem;
+}
+
+.educationContainer .ant-timeline-item{
+    font-size: 1.5rem;
 }

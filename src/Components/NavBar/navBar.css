@@ -8,6 +8,7 @@
     height: 12vh;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: -3.5vh;
+    position: sticky;
 }
 
 .nav_container{
