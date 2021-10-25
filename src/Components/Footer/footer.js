@@ -18,7 +18,7 @@ function Footer() {
                         <small className='website_rights'>Radu-Mihai Sîrbu © 2021</small>
                     </div>
                     <div className = "footer_container_element">
-                        <SocialIcon url="https://github.com/radufx" className = "githubIcon"/>
+                        <SocialIcon url="https://github.com/radufx" target = "_blank" className = "githubIcon"/>
                     </div>
                 </div>
             </footer>
