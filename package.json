@@ -1,6 +1,6 @@
 {
-  "homepage": "http://radufx.github.io/radumihaisirbu.ro",
-  "name": "radumihaisirbu.ro",
+  "homepage": "http://radufx.github.io/radumihaisirbu",
+  "name": "radumihaisirbu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
