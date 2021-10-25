@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/radumihaisirbu.ro/static/css/main.d4864026.chunk.css",
-    "main.js": "/radumihaisirbu.ro/static/js/main.1d183986.chunk.js",
-    "main.js.map": "/radumihaisirbu.ro/static/js/main.1d183986.chunk.js.map",
+    "main.css": "/radumihaisirbu.ro/static/css/main.728e2428.chunk.css",
+    "main.js": "/radumihaisirbu.ro/static/js/main.532a9d40.chunk.js",
+    "main.js.map": "/radumihaisirbu.ro/static/js/main.532a9d40.chunk.js.map",
     "runtime-main.js": "/radumihaisirbu.ro/static/js/runtime-main.2432702b.js",
     "runtime-main.js.map": "/radumihaisirbu.ro/static/js/runtime-main.2432702b.js.map",
-    "static/js/2.d7fd44f8.chunk.js": "/radumihaisirbu.ro/static/js/2.d7fd44f8.chunk.js",
-    "static/js/2.d7fd44f8.chunk.js.map": "/radumihaisirbu.ro/static/js/2.d7fd44f8.chunk.js.map",
+    "static/css/2.04b51b68.chunk.css": "/radumihaisirbu.ro/static/css/2.04b51b68.chunk.css",
+    "static/js/2.805fdff0.chunk.js": "/radumihaisirbu.ro/static/js/2.805fdff0.chunk.js",
+    "static/js/2.805fdff0.chunk.js.map": "/radumihaisirbu.ro/static/js/2.805fdff0.chunk.js.map",
     "index.html": "/radumihaisirbu.ro/index.html",
-    "static/css/main.d4864026.chunk.css.map": "/radumihaisirbu.ro/static/css/main.d4864026.chunk.css.map",
-    "static/js/2.d7fd44f8.chunk.js.LICENSE.txt": "/radumihaisirbu.ro/static/js/2.d7fd44f8.chunk.js.LICENSE.txt",
+    "static/css/2.04b51b68.chunk.css.map": "/radumihaisirbu.ro/static/css/2.04b51b68.chunk.css.map",
+    "static/css/main.728e2428.chunk.css.map": "/radumihaisirbu.ro/static/css/main.728e2428.chunk.css.map",
+    "static/js/2.805fdff0.chunk.js.LICENSE.txt": "/radumihaisirbu.ro/static/js/2.805fdff0.chunk.js.LICENSE.txt",
+    "static/media/EasyTram.a4882910.png": "/radumihaisirbu.ro/static/media/EasyTram.a4882910.png",
+    "static/media/HealthNow.b68f6205.png": "/radumihaisirbu.ro/static/media/HealthNow.b68f6205.png",
+    "static/media/ManageIT.9afe8b89.png": "/radumihaisirbu.ro/static/media/ManageIT.9afe8b89.png",
     "static/media/Python_logo.svg.60b93f3b.png": "/radumihaisirbu.ro/static/media/Python_logo.svg.60b93f3b.png",
+    "static/media/TimisoaraNow.d18974e6.png": "/radumihaisirbu.ro/static/media/TimisoaraNow.d18974e6.png",
     "static/media/cpp_logo.svg.c0a0d2fd.png": "/radumihaisirbu.ro/static/media/cpp_logo.svg.c0a0d2fd.png",
-    "static/media/profilePicture.10fc9798.jpg": "/radumihaisirbu.ro/static/media/profilePicture.10fc9798.jpg"
+    "static/media/profilePicture.10fc9798.jpg": "/radumihaisirbu.ro/static/media/profilePicture.10fc9798.jpg",
+    "static/media/radumihaisirbu.655ff87a.png": "/radumihaisirbu.ro/static/media/radumihaisirbu.655ff87a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2432702b.js",
-    "static/js/2.d7fd44f8.chunk.js",
-    "static/css/main.d4864026.chunk.css",
-    "static/js/main.1d183986.chunk.js"
+    "static/css/2.04b51b68.chunk.css",
+    "static/js/2.805fdff0.chunk.js",
+    "static/css/main.728e2428.chunk.css",
+    "static/js/main.532a9d40.chunk.js"
   ]
 }
