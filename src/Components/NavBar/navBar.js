@@ -10,7 +10,7 @@ function NavBar () {
             <div className = "navbar_container">
                 <ul className = "nav_menu">
                     <li className = "nav_item">
-                        <Link to = "/" className = "nav_link"> Home </Link>
+                        <Link to = "/radumihaisirbu" className = "nav_link"> Home </Link>
                     </li>
                     <li className = "nav_item">
                         <Link to = "/projects" className = "nav_link"> Projects </Link>
