@@ -10,7 +10,7 @@ import python_logo from "../../Images/Python_logo.svg.png"
 function Skills () {
     return (
         <div className = "skillsContainer">
-            <p className = "skillsTitle">Skills</p>
+            <p className = "skillsCategory">Programming skills</p>
             <div className = "programmingLanguages">
                 <p className = "programmingLanguagesTitle">Programming languages</p>
                 <div className = "programmingLanguage">

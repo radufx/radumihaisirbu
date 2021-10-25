@@ -1,11 +1,12 @@
 import React from "react";
 
 import Button from 'react-bootstrap/Button';
-import Accordion from '@mui/material/Accordion';
-import AccordionSummary from '@mui/material/AccordionSummary';
-import AccordionDetails from '@mui/material/AccordionDetails';
-import Typography from '@mui/material/Typography';
+import Accordion from '@material-ui/core/Accordion';
+import AccordionSummary from '@material-ui/core/AccordionSummary';
+import AccordionDetails from '@material-ui/core/AccordionDetails';
+import Typography from '@material-ui/core/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import { StylesProvider } from "@material-ui/core/styles";
 
 import "./projectElement.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -22,6 +23,7 @@ function ProjectElement (props) {
             </div>
             <div className = "projectDescriptionComponent">
                 <p className = "projectTitle">{props.title}</p>
+                <StylesProvider injectFirst>
                 <Accordion square={false}>
                     <AccordionSummary
                         expandIcon={<ExpandMoreIcon />}
@@ -35,6 +37,7 @@ function ProjectElement (props) {
                         <Typography>{props.technologies}</Typography>
                     </AccordionDetails>
                 </Accordion>
+                </StylesProvider>
             </div>
         </div>
     )

@@ -16,9 +16,50 @@
     height: 80vh;
 }
 
+.projectComponent:nth-of-type(1){
+    margin-top: -5vh;
+}
+
+.MuiAccordion-root{
+    background-color: rgba(255, 0, 0, 0.6);
+    border-radius: 5%;
+    border: 2px solid rgba(0, 0, 0, 0.658)
+}
+
+.MuiTypography-root{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.MuiTypography-root:nth-of-type(2){
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.MuiAccordionDetails-root{
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-gap: 2vh;
+}
+
 .buttonLinkRepo{
     margin: auto;
-    margin-top: 28vh;
+    margin-top: 27vh;
+    font-family: 'Righteous', cursive;
+    width: 40vh;
+    font-weight: bold;
+    border-radius: 5%;
+    font-size: 1.5rem !important;
+    background-color: rgba(0, 0, 0, 0.185) !important;
+}
+
+.buttonLinkRepo:hover{
+    background-color: rgb(255, 0, 0) !important;
+    border-radius: 10px;
 }
 
 .projectImageComponent:hover{
@@ -29,6 +70,7 @@
     margin-top: 10vh;
     margin-bottom: 10vh;
     margin-left: 10vh;
+    box-shadow: 5px 7px rgba(0, 0, 0, 0.4);
 }
 
 .projectDescriptionComponent{
@@ -42,10 +84,6 @@
     font-weight: bold;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border-bottom: 3px solid black;
-}
-
-.projectDescription{
-
 }
 
 .panel1a-header{

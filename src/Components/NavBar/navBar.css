@@ -6,9 +6,9 @@
     font-size: 2rem;
     top: 0vh;
     height: 12vh;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Righteous', cursive;
     margin-top: -3.5vh;
-    position: sticky;
+    /*position: sticky;*/
 }
 
 .nav_container{

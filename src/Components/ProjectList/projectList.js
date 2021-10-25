@@ -40,7 +40,7 @@ const projectDetailsList = [
 function ProjectList (){
     return (
         <div className = "projectListDiv">
-            <h1>These are some of my projects</h1>
+            <h1 className = "projectListTitle">These are some of my projects</h1>
             <ProjectElement 
                 title="EasyTram" 
                 link="https://github.com/radufx/EasyTram2" 
