@@ -21,12 +21,19 @@
 .linkedinIcon{
     border-radius: 50%;
     background: white;
-    width: 9vh;
-    height: 9vh;
 }
 
 .linkedinIcon:hover{
     background:rgb(65, 65, 65);
+}
+
+.githubIcon{
+    border-radius: 100%;
+    background: rgb(255, 255, 255);
+}
+
+.githubIcon:hover{
+    background: rgba(255, 255, 255, 0.7);
 }
 
 .footer_container_element{
