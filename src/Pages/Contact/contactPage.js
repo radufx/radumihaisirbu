@@ -1,10 +1,13 @@
 import React from "react";
+import ContactForm from "../../Components/ContactForm/contactForm";
+
+import "./contactPage.css"
 
 function contactPage () {
     return (
-        <>
-            <h1>Work in progress</h1>
-        </>
+        <div className = "contactPageDiv">
+            <ContactForm/>
+        </div>
     )
 }
 

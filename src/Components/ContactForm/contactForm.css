@@ -1,0 +1,64 @@
+.form{
+    
+}
+
+.inputTitle{
+    width: 100%;
+    font-size: 1.1rem;
+    margin-top: 2vh;
+    margin-bottom: 0vh;
+    font-weight: bold;
+}
+
+.inputTitle:nth-of-type(1){
+    margin-top: 0vh;
+}
+
+.inputTitle:after {
+    content: "*";
+    color: red;
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.messageInput{
+    font-size: 1rem;
+}
+
+.textInput{
+    resize: none;
+    width: 68vh;
+    font-size: 1.1rem;
+}
+
+.formDiv{
+    width: 98vh;
+    height: 100%;
+    margin: auto;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+    padding-left: 15vh;
+    padding-right: 15vh;
+    padding-bottom: 12vh;
+    margin-bottom: 8.2vh;
+    padding-top: 5vh;
+    box-shadow: 5px 6px rgba(0, 0, 0, 0.1);
+}
+
+.buttonSend{
+    position: relative;
+    margin-bottom: -8vh;
+    background-color: rgb(255, 0, 0) !important;
+    font-size: 1.1rem !important;
+    color: white !important;
+    width: 100%;
+}
+
+.buttonSend:hover{
+    background-color: rgb(255, 0, 0, .5) !important;
+    /*background:linear-gradient(rgba(255, 255, 255, 0.541), rgba(255, 0, 0, 0.452)) !important;*/
+}

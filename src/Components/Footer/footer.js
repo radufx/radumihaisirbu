@@ -12,7 +12,7 @@ function Footer() {
             <footer className = "footer">
                 <div className = "footer_container">
                     <div className = "footer_container_element">
-                        <SocialIcon url="https://www.linkedin.com/in/radu-mihai-s%C3%AErbu-03097a202/" className = "linkedinIcon"/>
+                        <SocialIcon url="https://www.linkedin.com/in/radu-mihai-s%C3%AErbu-03097a202/" target = "_blank" className = "linkedinIcon"/>
                     </div>
                     <div className = "footer_container_element">
                         <small className='website_rights'>Radu-Mihai Sîrbu © 2021</small>
