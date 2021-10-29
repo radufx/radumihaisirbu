@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/radumihaisirbu/static/css/main.728e2428.chunk.css",
-    "main.js": "/radumihaisirbu/static/js/main.d7892919.chunk.js",
-    "main.js.map": "/radumihaisirbu/static/js/main.d7892919.chunk.js.map",
+    "main.css": "/radumihaisirbu/static/css/main.ea5ee99a.chunk.css",
+    "main.js": "/radumihaisirbu/static/js/main.6bf87bad.chunk.js",
+    "main.js.map": "/radumihaisirbu/static/js/main.6bf87bad.chunk.js.map",
     "runtime-main.js": "/radumihaisirbu/static/js/runtime-main.387fa665.js",
     "runtime-main.js.map": "/radumihaisirbu/static/js/runtime-main.387fa665.js.map",
-    "static/css/2.04b51b68.chunk.css": "/radumihaisirbu/static/css/2.04b51b68.chunk.css",
-    "static/js/2.0a8b6db8.chunk.js": "/radumihaisirbu/static/js/2.0a8b6db8.chunk.js",
-    "static/js/2.0a8b6db8.chunk.js.map": "/radumihaisirbu/static/js/2.0a8b6db8.chunk.js.map",
+    "static/css/2.176caf7f.chunk.css": "/radumihaisirbu/static/css/2.176caf7f.chunk.css",
+    "static/js/2.7766bdfd.chunk.js": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js",
+    "static/js/2.7766bdfd.chunk.js.map": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.map",
     "index.html": "/radumihaisirbu/index.html",
-    "static/css/2.04b51b68.chunk.css.map": "/radumihaisirbu/static/css/2.04b51b68.chunk.css.map",
-    "static/css/main.728e2428.chunk.css.map": "/radumihaisirbu/static/css/main.728e2428.chunk.css.map",
-    "static/js/2.0a8b6db8.chunk.js.LICENSE.txt": "/radumihaisirbu/static/js/2.0a8b6db8.chunk.js.LICENSE.txt",
+    "static/css/2.176caf7f.chunk.css.map": "/radumihaisirbu/static/css/2.176caf7f.chunk.css.map",
+    "static/css/main.ea5ee99a.chunk.css.map": "/radumihaisirbu/static/css/main.ea5ee99a.chunk.css.map",
+    "static/js/2.7766bdfd.chunk.js.LICENSE.txt": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.LICENSE.txt",
     "static/media/EasyTram.a4882910.png": "/radumihaisirbu/static/media/EasyTram.a4882910.png",
     "static/media/HealthNow.b68f6205.png": "/radumihaisirbu/static/media/HealthNow.b68f6205.png",
     "static/media/ManageIT.9afe8b89.png": "/radumihaisirbu/static/media/ManageIT.9afe8b89.png",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.387fa665.js",
-    "static/css/2.04b51b68.chunk.css",
-    "static/js/2.0a8b6db8.chunk.js",
-    "static/css/main.728e2428.chunk.css",
-    "static/js/main.d7892919.chunk.js"
+    "static/css/2.176caf7f.chunk.css",
+    "static/js/2.7766bdfd.chunk.js",
+    "static/css/main.ea5ee99a.chunk.css",
+    "static/js/main.6bf87bad.chunk.js"
   ]
 }
