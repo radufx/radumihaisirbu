@@ -1,6 +1,7 @@
 import React from "react";
 import ProjectElement from "./projectElement";
 
+import TasteNoWaste from "../../Images/TasteNoWaste.png";
 import EasyTram from "../../Images/EasyTram.png";
 import HealthNow from "../../Images/HealthNow.png";
 import ManageIT from "../../Images/ManageIT.png";
@@ -10,6 +11,11 @@ import radumihaisirbu from "../../Images/radumihaisirbu.png";
 import "./projectList.css";
 
 const projectDetailsList = [
+    {
+        imgSrc : TasteNoWaste,
+        desc: "TasteNoWaste is a native android application that allows users to scan barcodes and so manage all the purchased products. The project also provides a web interface with statistics for authorities in Timisoara.",
+        tech : "Technologies: Java, Firebase, React.js"
+    },
     {
         imgSrc : EasyTram, 
         desc : "EasyTram is a native android application that displays information about the tram system in the city of Arad, Romania. It displays tram routes, locations of stations and schedule.",
@@ -42,39 +48,46 @@ function ProjectList (){
         <div className = "projectListDiv">
             <h1 className = "projectListTitle">These are some of my projects</h1>
             <ProjectElement 
-                title="EasyTram" 
-                link="https://github.com/radufx/EasyTram2" 
+                title="TasteNoWaste" 
+                link="https://github.com/radufx/TasteNoWaste" 
                 image = {projectDetailsList[0].imgSrc}
                 description = {projectDetailsList[0].desc}
                 technologies = {projectDetailsList[0].tech}
             />
             <ProjectElement 
-                title="HealthNow" 
-                link="https://github.com/radufx/UniHack2020-HealthNow" 
-                image = {projectDetailsList[1].imgSrc} 
+                title="EasyTram" 
+                link="https://github.com/radufx/EasyTram2" 
+                image = {projectDetailsList[1].imgSrc}
                 description = {projectDetailsList[1].desc}
                 technologies = {projectDetailsList[1].tech}
             />
             <ProjectElement 
-                title="Manage.IT" 
-                link="https://github.com/Catalin-2002/manage.iT" 
-                image = {projectDetailsList[2].imgSrc}
+                title="HealthNow" 
+                link="https://github.com/radufx/UniHack2020-HealthNow" 
+                image = {projectDetailsList[2].imgSrc} 
                 description = {projectDetailsList[2].desc}
                 technologies = {projectDetailsList[2].tech}
             />
             <ProjectElement 
-                title="TimisoaraNow" 
-                link="https://github.com/Catalin-2002/spaceappschallenge2021" 
+                title="Manage.IT" 
+                link="https://github.com/Catalin-2002/manage.iT" 
                 image = {projectDetailsList[3].imgSrc}
                 description = {projectDetailsList[3].desc}
                 technologies = {projectDetailsList[3].tech}
             />
             <ProjectElement 
-                title="radumihaisirbu.ro" 
-                link="https://github.com/radufx/radumihaisirbu.ro" 
+                title="TimisoaraNow" 
+                link="https://github.com/Catalin-2002/spaceappschallenge2021" 
                 image = {projectDetailsList[4].imgSrc}
                 description = {projectDetailsList[4].desc}
                 technologies = {projectDetailsList[4].tech}
+            />
+            <ProjectElement 
+                title="radumihaisirbu.ro" 
+                link="https://github.com/radufx/radumihaisirbu.ro" 
+                image = {projectDetailsList[5].imgSrc}
+                description = {projectDetailsList[5].desc}
+                technologies = {projectDetailsList[5].tech}
             />
         </div>
     )   
