@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/radumihaisirbu/static/css/main.ea5ee99a.chunk.css",
-    "main.js": "/radumihaisirbu/static/js/main.6bf87bad.chunk.js",
-    "main.js.map": "/radumihaisirbu/static/js/main.6bf87bad.chunk.js.map",
+    "main.css": "/radumihaisirbu/static/css/main.b2cb321b.chunk.css",
+    "main.js": "/radumihaisirbu/static/js/main.4bfcd1c0.chunk.js",
+    "main.js.map": "/radumihaisirbu/static/js/main.4bfcd1c0.chunk.js.map",
     "runtime-main.js": "/radumihaisirbu/static/js/runtime-main.387fa665.js",
     "runtime-main.js.map": "/radumihaisirbu/static/js/runtime-main.387fa665.js.map",
     "static/css/2.176caf7f.chunk.css": "/radumihaisirbu/static/css/2.176caf7f.chunk.css",
@@ -10,12 +10,13 @@
     "static/js/2.7766bdfd.chunk.js.map": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.map",
     "index.html": "/radumihaisirbu/index.html",
     "static/css/2.176caf7f.chunk.css.map": "/radumihaisirbu/static/css/2.176caf7f.chunk.css.map",
-    "static/css/main.ea5ee99a.chunk.css.map": "/radumihaisirbu/static/css/main.ea5ee99a.chunk.css.map",
+    "static/css/main.b2cb321b.chunk.css.map": "/radumihaisirbu/static/css/main.b2cb321b.chunk.css.map",
     "static/js/2.7766bdfd.chunk.js.LICENSE.txt": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.LICENSE.txt",
     "static/media/EasyTram.a4882910.png": "/radumihaisirbu/static/media/EasyTram.a4882910.png",
     "static/media/HealthNow.b68f6205.png": "/radumihaisirbu/static/media/HealthNow.b68f6205.png",
     "static/media/ManageIT.9afe8b89.png": "/radumihaisirbu/static/media/ManageIT.9afe8b89.png",
     "static/media/Python_logo.svg.60b93f3b.png": "/radumihaisirbu/static/media/Python_logo.svg.60b93f3b.png",
+    "static/media/TasteNoWaste.80dec72e.png": "/radumihaisirbu/static/media/TasteNoWaste.80dec72e.png",
     "static/media/TimisoaraNow.d18974e6.png": "/radumihaisirbu/static/media/TimisoaraNow.d18974e6.png",
     "static/media/cpp_logo.svg.c0a0d2fd.png": "/radumihaisirbu/static/media/cpp_logo.svg.c0a0d2fd.png",
     "static/media/profilePicture.10fc9798.jpg": "/radumihaisirbu/static/media/profilePicture.10fc9798.jpg",
@@ -25,7 +26,7 @@
     "static/js/runtime-main.387fa665.js",
     "static/css/2.176caf7f.chunk.css",
     "static/js/2.7766bdfd.chunk.js",
-    "static/css/main.ea5ee99a.chunk.css",
-    "static/js/main.6bf87bad.chunk.js"
+    "static/css/main.b2cb321b.chunk.css",
+    "static/js/main.4bfcd1c0.chunk.js"
   ]
 }
