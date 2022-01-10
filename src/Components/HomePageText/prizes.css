@@ -26,3 +26,20 @@
 .prizesContainer .ant-timeline-item{
     font-size: 1.5rem;
 }
+
+@media only screen and (max-width: 768px) {
+    .prizesContainer{
+        width: 100%;
+        padding: 2vh;
+        margin-top: -7.5vh;
+    }
+
+    .prizesTitle{
+        font-size: 1.5rem;
+        margin-bottom: 2.5vh;
+    }
+
+    .prizesContainer .ant-timeline-item{
+        font-size: 1.1rem;
+    }
+}

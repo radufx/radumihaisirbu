@@ -13,3 +13,16 @@
     width: 45vh;
     height: 45vh;
 }
+
+@media only screen and (max-width: 768px) {
+    .profileImage_component{
+        width: 100%;
+        margin-left: 0vh;
+        margin-top: 0vh;
+        align-items: center;
+    }
+
+    .profileImage{
+        zoom: .75;
+    }
+}
