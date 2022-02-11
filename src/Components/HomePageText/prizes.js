@@ -10,6 +10,7 @@ function Prizes () {
         <div className = "prizesContainer">
             <p className = "prizesTitle">Contests prizes and participations</p>
             <Timeline mode = "alternate">
+                <Timeline.Item label="December, 2021"> Finalist - UniHack </Timeline.Item>
                 <Timeline.Item label="October, 2021"> NASA Space Apps Challenge </Timeline.Item>
                 <Timeline.Item label="May, 2021"> Finalist - FII Code 2021 </Timeline.Item>
                 <Timeline.Item label="November, 2020"> Startup Survivor Prize - UniHack </Timeline.Item>
