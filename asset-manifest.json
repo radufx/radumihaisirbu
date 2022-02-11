@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/radumihaisirbu/static/css/main.1029c3af.chunk.css",
+    "main.css": "/radumihaisirbu/static/css/main.040cfcb2.chunk.css",
     "main.js": "/radumihaisirbu/static/js/main.4bfcd1c0.chunk.js",
     "main.js.map": "/radumihaisirbu/static/js/main.4bfcd1c0.chunk.js.map",
     "runtime-main.js": "/radumihaisirbu/static/js/runtime-main.387fa665.js",
@@ -10,7 +10,7 @@
     "static/js/2.7766bdfd.chunk.js.map": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.map",
     "index.html": "/radumihaisirbu/index.html",
     "static/css/2.176caf7f.chunk.css.map": "/radumihaisirbu/static/css/2.176caf7f.chunk.css.map",
-    "static/css/main.1029c3af.chunk.css.map": "/radumihaisirbu/static/css/main.1029c3af.chunk.css.map",
+    "static/css/main.040cfcb2.chunk.css.map": "/radumihaisirbu/static/css/main.040cfcb2.chunk.css.map",
     "static/js/2.7766bdfd.chunk.js.LICENSE.txt": "/radumihaisirbu/static/js/2.7766bdfd.chunk.js.LICENSE.txt",
     "static/media/EasyTram.a4882910.png": "/radumihaisirbu/static/media/EasyTram.a4882910.png",
     "static/media/HealthNow.b68f6205.png": "/radumihaisirbu/static/media/HealthNow.b68f6205.png",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.387fa665.js",
     "static/css/2.176caf7f.chunk.css",
     "static/js/2.7766bdfd.chunk.js",
-    "static/css/main.1029c3af.chunk.css",
+    "static/css/main.040cfcb2.chunk.css",
     "static/js/main.4bfcd1c0.chunk.js"
   ]
 }
